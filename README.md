@@ -1,2 +1,2 @@
-# Visual-Analysis-of-Crimes-in-USA-
+# Visual-Analysis-of-Crimes-in-USA
 Visual Analytics Coursework
